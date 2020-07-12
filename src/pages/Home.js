@@ -11,7 +11,7 @@ export default function Home() {
             <Hero hero="defaultHero">
                 <Banner title="Luxurious rooms" subtitle="delux rooms for $499" >
                     <Link to="/rooms" className="btn-primary">
-                        Our rooms
+                        Our rooms /!\
             </Link>
                 </Banner>
             </Hero>
